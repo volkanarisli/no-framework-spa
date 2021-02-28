@@ -1,0 +1,11 @@
+{
+  "name": "no-framework-spa",
+  "version": "1.0.0",
+  "description": "Trying to create a spa with no frameworks",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
